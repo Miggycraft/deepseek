@@ -2,6 +2,7 @@
 
 > A dark theme for [Deepseek](https://www.chat.deepseek.com)
 
+![Home](./home.png)
 ![Screenshot](./screenshot.png)
 
 ## Install
