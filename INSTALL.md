@@ -1,19 +1,18 @@
-### [Foobar](https://foobar.com)
+### [Deepseek](https://chat.deepseek.com)
 
-#### Install using Git
+#### Prerequisites
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Install the Stylus browser extension first:
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+- **Chrome/Edge/Brave**: [Chrome Web Store](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne);
+- **Firefox**: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. **Open the theme file**: Visit [Deepseek Dracula Theme](./deepseek-dracula.cs);
+
+2. **Install the theme**: Click the "Install" button when prompted by Stylus;
+
+3. **Automatic activation**: The theme will immediately apply to all Deepseek pages.
+
+> Navigate to [Deepseek](https://chat.deepseek.com) to see the new Dracula theme applied automatically. ✨

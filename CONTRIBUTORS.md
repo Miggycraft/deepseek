@@ -1,32 +1,33 @@
-# 🤝🏻 Contributors
+# Dracula for [Deepseek](https://www.chat.deepseek.com)
 
-> "We learn big things from small experiences" - **Bram Stoker**
+> A dark theme for [Deepseek](https://www.chat.deepseek.com).
 
-Dracula Theme is an open-source project driven by and for the community. Most apps that support the theme are contributions from our community.
+![screenshot](./screenshot.png)
 
-As much as the team is responsible for the core theme and wants to support all available applications, we can only do some of it ourselves.
+## Install
 
-That's why the community is essential for this project to keep evolving. Below are some tips for you, contributor.
+All instructions can be found at [foobar](https://draculatheme.com/google-search).
 
-## 🎃 Recommendations
+enjoy! 😆
 
-⚡ This template-repo is organized for easy use:
+## Team
 
-- [`README.md`](README.md): Introduction and guide for GitHub users;
-- [`screenshot.png`](screenshot.png): Displays your Dracula-themed theme on the website 😅;
-- [`INSTALL.md`](INSTALL.md): Installation instructions to display on the website;
-- [`sample`](/sample/): Code samples in various languages to aid theme creation. (_Consider removing this folder before submission._)
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/google-search/graphs/contributors).
 
-Previously, default formatting settings were included. Now, we recommend preparing your theme with this command:
+| ![DokaDev](https://github.com/dokadev.png?size=100) | ![Miggycraft](https://github.com/miggycraft.png?size=100) |
+| --------------------------------------------------- | --------------------------------------------------------- |
+| [DokaDev](https://github.com/dokadev)               | [Miggycraft](https://github.com/miggycraft)               |
 
-```bash
-npx prettier . --write
-```
+## Community
 
-> What is that `npx` thing? `npx` ships with `npm` and lets you run locally installed tools.
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
-## 🦉 The Dracula Theme Team
+## Dracula PRO
 
-The creators behind the scenes are just me, [Lucas de França](https://github.com/luxonauta), and [Zeno Rocha](https://github.com/zenorocha). 😅
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
 
-Reach out via [email](mailto:support@draculatheme.com) or follow us on Twitter/X: [Zeno Rocha](https://twitter.com/zenorocha) & [Luxonauta (Lucas)](https://twitter.com/luxonauta).
+## License
+
+[MIT License](./LICENSE)
