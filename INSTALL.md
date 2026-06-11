@@ -9,7 +9,7 @@ Install the Stylus browser extension first:
 
 #### Activating theme
 
-1. **Open the theme file**: Visit [Deepseek Dracula Theme](./deepseek-dracula.cs);
+1. **Open the theme file**: Visit [Deepseek Dracula Theme](https://raw.githubusercontent.com/Miggycraft/deepseek/refs/heads/main/deepseek-dracula.css);
 
 2. **Install the theme**: Click the "Install" button when prompted by Stylus;
 
